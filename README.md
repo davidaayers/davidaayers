@@ -12,7 +12,7 @@ I have various homes on the web:
 
 I enjoy [speaking](https://github.com/davidaayers/speaker-info), and have done some talks at some great conferences. I'm particularly proud of the talk I did on "[Documenting and Communicating Architectural Decisions](https://github.com/davidaayers/comm-and-doc-arch-decisions)" at [Lead Dev NYC](https://www.youtube.com/watch?v=rwfXkSjFhzc&feature=youtu.be) in 2019.
 
-In the past, I made a game. It sold a couple of copies. I'm proud it it:
+In the past, I made a game. It sold a couple of copies. I think it's pretty great, YMMV:
 
 - [We Slay Monsters](http://weslaymonsters.com/), available on [Steam](https://store.steampowered.com/app/332540/We_Slay_Monsters/) and [itch.io](https://furiouslyinactive.itch.io/we-slay-monsters)
 
