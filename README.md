@@ -1,6 +1,6 @@
-## Hi, I'm David, and I'm a Giant Nerd! 👋
+## Hi, I'm David, and I'm a Giant Nerd! 👋 #blacklivesmatter 
 
-Living the quarantine life 😷
+Staying Safe, Staying Home! 😷 
 
 VP of Engineering at [Invitation Homes](https://www.invitationhomes.com/)
 
