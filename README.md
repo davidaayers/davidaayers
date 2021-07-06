@@ -1,7 +1,5 @@
 ## Hi, I'm David, and I'm a Giant Nerd! 👋 #blacklivesmatter 
 
-Staying Safe, Staying Home! 😷 
-
 VP of Engineering at [Invitation Homes](https://www.invitationhomes.com/)
 
 I have various homes on the web:
