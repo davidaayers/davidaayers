@@ -1,6 +1,6 @@
 ## Hi, I'm David, and I'm a Giant Nerd! 👋 
 
-VP of Engineering at [Invitation Homes](https://www.invitationhomes.com/)
+VP of Engineering at [Invitation Homes](https://www.invitationhomes.com/); here's my [Manager README](https://github.com/davidaayers/davidaayers/blob/main/MANAGER-README.md).
 
 I have various homes on the web:
 
