@@ -23,6 +23,13 @@ What's this for?
 ## My Assumptions
 
 
+## My Expectations of Managers who report to me
+
+* Weekly 1:1s with directs
+* Regular skip-level 1:1s with grand-directs
+* Build a peer network (manager voltron good!)
+
+
 
 ## How can I help you?
 
@@ -37,3 +44,13 @@ What's this for?
 
 
 ## Feedback
+
+
+
+## Communications
+
+
+## Work Hours
+
+
+## 1:1s
