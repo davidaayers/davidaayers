@@ -12,7 +12,7 @@
                               /____/                                                       
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/davidaayers/speaker-info/master/pics/headshot_small_square.jpg">
+<img align="left" src="https://raw.githubusercontent.com/davidaayers/speaker-info/master/pics/headshot_small_square.jpg" width=200>
 
 
 👋 Hi! I'm David (he/him), and this README is intended to give you a brief introduction to what goes on inside my head -- and how we can work together. As you'll learn, one of the things I value _a lot_ is continuous learning & improvement, so this will _always_ be a work in progress. I used to write code, and while I don't anymore, I'm still very interested in technology and architecture, and I try to keep at least a bit of my knowledge intact, so I don't become irrelevant (I've seen it happen to others at my level, and view that as a cautionary tale).
