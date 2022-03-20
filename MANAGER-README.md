@@ -92,7 +92,7 @@ I have a tendency to repeat myself, and it's something I'm _really_ working on f
 
 ## What do I do when I'm not working?
 
-I'm living in Dallas, TX with my wife. We bought a house in Lakewood after a bit of a sojourn across the country (Dallas -> Denver -> Phoenix -> Dallas, all in 3 years).
+I'm living in Dallas, TX with my wife. We bought a house in Lakewood after a bit of a sojourn across the country (Dallas ➡️ Denver ➡️ Phoenix ➡️ Dallas, all in 3 years).
 
 I love spending time with my lovely wife, watching TV, drinking wine, and generally just "chilling and whatnot".
 
