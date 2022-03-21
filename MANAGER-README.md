@@ -31,15 +31,15 @@ I see my primary role as:
 Secondarily:
 * **Provide Context**: I'll provide the larger context for the work we're doing, and how it fits with our overall strategy and approach
 * **Help You Grow**: We succeed together, and I want everyone to reach their career and personal objectives
-* **Delivering Value**: It's my job to help you and your team deliver value as quickly as feasible. The faster we can iterate and deliver, the more value we're delivering.
+* **Delivering Value**: It's my job to help you and your team deliver value as quickly as feasible. The faster we can iterate and deliver, the more value we're delivering
 
 ## What do I value most?
 
-* **Family First**. Our work comes second to our families, and our priorities should reflect that. Work/Life balance isn't just a phrase, it's something that we strive to achieve, and if we aren't, let's fix it!
+* **Family First**. Our work comes second to our families and our priorities should reflect that. Work/Life balance isn't just a phrase, it's something that we strive to achieve, and if we aren't, let's fix it!
 
-* **Continuous Learning & Improvement**. Most days, I spend 30-60 minutes reading (I use [Pocket](https://getpocket.com) to build a reading list of articles I run across). I also am usually reading at least a couple of books at a time (or listening on Audible). I look at a lot of Pull Requests, mostly so I can learn from what the teams are doing. Building a culture that values Continuous Improvement isn't just something I say because "Agile" -- it's something I practice and want us all to be part of.
+* **Continuous Learning & Improvement**. Most days, I spend 30-60 minutes reading (I use [Pocket](https://getpocket.com) to build a reading list of articles I run across). I also am usually reading at least a couple of books at a time (or listening on Audible). I look at a lot of Pull Requests, mostly so I can learn from them. Building a culture that values Continuous Improvement isn't just something I say because "Agile" -- it's something I practice and want us all to be part of.
 
-* **Information**. There's a lot going on across our teams, and I can't be everywhere I'd like to be, or participate in all of the conversations that I'd like to. So I value sharing information so that I'm informed when people ask me questions. This is _especially_ true when there are things going wrong. If there's a doubt, tell me about it! I'll return the favor -- after all, one of the important things I do in my role is provide context. And do the same for your teams -- the "so that" part of a user story is important because it provides _context_, after all, so take that philosophy and apply it everywhere!
+* **Information**. There's a lot going on across our teams, and I can't be everywhere I'd like to be, or participate in the conversations that I'd like to. I value sharing information so that I'm informed when people ask me questions. This is _especially_ true when things go wrong. If there's a doubt, tell me about it! I'll return the favor -- after all, one of the important things I do in my role is provide context. And do the same for your teams; after all, the "so that" part of a user story is important because it provides _context_, so take that philosophy and apply it everywhere!
 
 * **Pragmatism**. We shouldn't be over-engineering, but neither should we be under-engineering. A great sense of the trade-offs and making the right one for the business is important, but always with a bias to _action_. One of the most important questions that can help: "What problem are we trying to solve here?"
 
@@ -48,22 +48,22 @@ Secondarily:
 ## What you can expect of me
 * Honesty. I don't beat around the bush, but I also care about you as a person, so I won't be a jerk about it.
 * Weekly 1:1s. This is your time -- help with what's troubling you, work through issues, talk about growth opportunities. If we have extra time, I may use some of it to brainstorm things that are on my mind, or share not-fully-formed thoughts and discuss.
-* I will help you grow and improve. I'll do my best to look for stretch assignments, and give you feedback and/or coaching, but at the end of the day, your career is _yours_, and you also need to let me know how I can best help.
+* I will help you grow and improve. I'll do my best to look for stretch assignments, and give you feedback and/or coaching, but at the end of the day, your career is _yours_, and you need to let me know how I can best help.
 * I will let you do your job. You were hired because you're good at it, and it's up to you to execute. I may have feedback or suggestions, but almost 100% of the time, your choices are your own.
 * Firefighting. I will jump in and help when you need it, in whatever way you need. Mostly, I'm good at running interference and communicating upward, but I'll do whatever I can when it's necessary.
-* Provide perspective. I may not know all of the details of every situation, but I can often provide perspective to consider that may help in our quest to deliver value
+* Provide perspective. I may not know all of the details of every situation, but I can often provide perspective to consider that may help in our quest to deliver value.
 
 
 ## What I expect of you
 
-* Have weekly 1:1s with directs
-* If you're a manager-of-managers, have regular skip-level 1:1s 
+* Have weekly 1:1s with directs reports.
+* If you're a manager-of-managers, have regular skip-level 1:1s.
 * Build a peer network, especially peers that compliment your strengths. Build your [Manager Voltron](https://larahogan.me/blog/manager-voltron/).
-* Have a good work-life balance, and model that for your team (if you're a manager)
-* Be able to change when presented with new information & learning
+* Have a good work-life balance, and model that for your team (if you're a manager).
+* Be able to change when presented with new information & learning.
 * Laugh. Humor is important!
 * Strong Opinions, Loosely Held - Disagree and commit where needed. This _doesn't_ mean the loudest voice wins, and it's also your job to make sure that everyone has a voice. If loud voices are drowning out the conversation, do something about it (especially if it's me -- see the personality quirks below)!
-* Take your PTO
+* Take your PTO.
 * When you need some of my time, please ask, but also let me know why -- there is nothing more ominous than "Hey, do you have a minute to chat?"
 * Don't be a jerk! Assume good intentions from everyone, even when that's sometimes hard.
 * Write things down. We are building a culture that is optimized for team performance over individual performance, and writing things down is a practice we need to be in to help our teammates (and future selves!).
@@ -86,7 +86,7 @@ I really don't like it when people are inattentive in meetings. If you have some
 
 I'm ADHD, but it usually doesn't interfere with my work. I've mellowed in my old age.
 
-I have been known in the past to be something of a "know it all". I have worked _really_ hard to lose this persona, but sometimes, I slip up. Related, I get frustrated sometimes when we don't pick the "obvious" best choice, and that can come across as arrogant or dismissive. I know that everyone thinks differently, and things are black-and-white, and that I'm often wrong. I'd appreciate a nudge in the ribs (or kick in the butt!) when I'm displaying these tenancies.
+I have been known in the past to be something of a "know it all". I have worked _really_ hard to lose this persona, but sometimes, I slip up. Related, I get frustrated sometimes when we don't pick the "obvious" best choice, and that can come across as arrogant or dismissive. I know that everyone thinks differently, and things aren't black-and-white, and that I'm often wrong. I'd appreciate a nudge in the ribs (or kick in the butt!) when I'm displaying these tendencies.
 
 I have a tendency to repeat myself, and it's something I'm _really_ working on fixing. Please let me know if you see me doing it to you a lot!
 
@@ -94,13 +94,13 @@ I have a tendency to repeat myself, and it's something I'm _really_ working on f
 
 I'm living in Dallas, TX with my wife. We bought a house in Lakewood after a bit of a sojourn across the country (Dallas ➡️ Denver ➡️ Phoenix ➡️ Dallas, all in 3 years).
 
-I love spending time with my lovely wife, watching TV, drinking wine, and generally just "chilling and whatnot".
+I love spending time with my lovely wife, watching TV, drinking wine, and generally just hanging out.
 
 I play a lot of video games and board games. I have a [large collection](https://boardgamegeek.com/collection/user/iamagiantnerd) of nerdy games, and try to play them as often as I can.
 
-I try to hike as much as I can; Dallas isn't so great for that, but when we travel, we try to fit a hike into the schedule.
+I try to hike as much as I can; Dallas isn't so great for that, but when we travel, we try to fit a hike into the schedule, and we're willing to drive a few hours outside of Dallas for highly reviewed hiking trails.
 
-I made a video game ([We Slay Monsters](https://weslaymonsters.com/)) in the past. Probably not something I'll do again, but it was a wild ride.
+I made a video game ([We Slay Monsters](https://weslaymonsters.com/)). Probably not something I'll do again, but it was a wild ride.
 
 I read Twitter, a lot. I follow a mix of tech folks, politics, LGBT activism, and feminists. Oh, and board games and miniature painting. To say it's eclectic is a mild understatement. If you're so inclined, check me out there [@iamagiantnerd](https://twitter.com/iamagiantnerd).
 
