@@ -65,7 +65,8 @@ Secondarily:
 * Strong Opinions, Loosely Held - Disagree and commit where needed. This _doesn't_ mean the loudest voice wins, and it's also your job to make sure that everyone has a voice. If loud voices are drowning out the conversation, do something about it (especially if it's me -- see the personality quirks below)!
 * Take your PTO.
 * When you need some of my time, please ask, but also let me know why -- there is nothing more ominous than "Hey, do you have a minute to chat?"
-* Don't be a jerk! Assume good intentions from everyone, even when that's sometimes hard.
+* Don't be a jerk! 
+* Approach everything from a perspective of openness and kindness.
 * Write things down. We are building a culture that is optimized for team performance over individual performance, and writing things down is a practice we need to be in to help our teammates (and future selves!).
 
 ## Communications, Work Hours, and Meetings
