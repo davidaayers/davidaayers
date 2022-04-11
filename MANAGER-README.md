@@ -56,7 +56,7 @@ Secondarily:
 
 ## What I expect of you
 
-* Have weekly 1:1s with directs reports.
+* Have weekly 1:1s with direct reports.
 * If you're a manager-of-managers, have regular skip-level 1:1s.
 * Build a peer network, especially peers that compliment your strengths. Build your [Manager Voltron](https://larahogan.me/blog/manager-voltron/).
 * Have a good work-life balance, and model that for your team (if you're a manager).
