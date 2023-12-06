@@ -4,7 +4,6 @@ SVP of Engineering at [Invitation Homes](https://www.invitationhomes.com/); here
 
 I have various homes on the web:
 
-- [@iamagiantnerd](https://twitter.com/iamagiantnerd) on Twitter
 - [davidaayers](https://www.linkedin.com/in/davidaayers/) on LinkedIn
 - [iamagiantnerd.com](https://iamagiantnerd.com) - My personal website
 
