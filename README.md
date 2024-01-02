@@ -7,7 +7,7 @@ I have various homes on the web:
 - [davidaayers](https://www.linkedin.com/in/davidaayers/) on LinkedIn
 - [iamagiantnerd.com](https://iamagiantnerd.com) - My personal website
 
-I enjoy [speaking](https://github.com/davidaayers/speaker-info), and have done some talks at some great conferences. I'm particularly proud of the talk I did on "[Documenting and Communicating Architectural Decisions](https://github.com/davidaayers/comm-and-doc-arch-decisions)" at [Lead Dev NYC](https://www.youtube.com/watch?v=rwfXkSjFhzc&feature=youtu.be) in 2019. I'm an avid reader of fiction and non-fiction and keep track of what I've [read]([url](https://github.com/davidaayers/knowledge/wiki/2024-Books)).
+I enjoy [speaking](https://github.com/davidaayers/speaker-info), and have done some talks at some great conferences. I'm particularly proud of the talk I did on "[Documenting and Communicating Architectural Decisions](https://github.com/davidaayers/comm-and-doc-arch-decisions)" at [Lead Dev NYC](https://www.youtube.com/watch?v=rwfXkSjFhzc&feature=youtu.be) in 2019. I'm an avid reader of fiction and non-fiction and keep track of what I've [read](https://github.com/davidaayers/knowledge/wiki/2024-Books).
 
 In the past, I made a game. It sold a couple of copies. I think it's pretty great, YMMV:
 
