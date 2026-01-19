@@ -9,7 +9,7 @@ I have various homes on the web:
 
 I enjoy [speaking](https://github.com/davidaayers/speaker-info), and have done some talks at some great conferences. I'm particularly proud of the talk I did on "[Documenting and Communicating Architectural Decisions](https://github.com/davidaayers/comm-and-doc-arch-decisions)" at [Lead Dev NYC](https://www.youtube.com/watch?v=rwfXkSjFhzc&feature=youtu.be) in 2019. I'm an avid reader of fiction and non-fiction and keep track of what I've [read](https://github.com/davidaayers/books).
 
-One time, I got frustrated at work and wrote a [meeting manifesto](mhttps://github.com/davidaayers/davidaayers/blob/main/meeting_manifesto.md) that I emailed to the CEO. Nothing really changed, but it felt great.
+One time, I got frustrated at work and wrote a [meeting manifesto](https://github.com/davidaayers/davidaayers/blob/main/meeting_manifesto.md) that I emailed to the CEO. Nothing really changed, but it felt great.
 
 In the past, I made a game. It sold a couple hundred copies. I think it's pretty great, YMMV:
 
