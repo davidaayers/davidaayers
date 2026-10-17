@@ -64,4 +64,4 @@ Part of the reason for this switch was thinking about what a meeting is. On Frid
 
 ## Other Interesting Ideas
 
-* Use semantic emojis in calendar invites to pack more meaning into invites: https://twitter.com/sallylait/status/1088879973912506369?s=12
+* Use semantic emojis in calendar invites to pack more meaning into invites: https://sallylait.com/blog/2019/02/09/semantic-calendar-emoji/
