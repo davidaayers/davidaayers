@@ -22,17 +22,22 @@ _Before you schedule a meeting_:
 
 _For meetings that you are scheduling_:
 * Decide in advance what the purpose of the meeting is and what outcomes we want at the end of the meeting.
-* Carefully consider the attendee list, and use "optional” for those that are genuinely optional
+* Carefully consider the attendee list. Ask who has the input you need and who has to make the call, and invite them. Too many meetings bring along everyone, usually out of fear of missing out. Use "optional” for those that are genuinely optional. Leaving someone off respects their time, as long as someone closes the loop afterward (see below).
+* If the goal is a decision, say up front who makes it.
 * When you schedule the meeting, be aware of and *look* at people's availability. If you have to schedule on top of someone else's meeting, check with them first, or assume their attendance is optional.
 * See if there's a way to minimize time away from people's flow; can this meeting be scheduled in a block of other meetings?
 * Give some thought to the meeting title -- it's going to show up on people's calendars. Can it be expressed in a way that conveys the purpose of the meeting and not be vague? (i.e., `Decide on our use cases for DataDog` vs. `APM Tool`).
 * Include relevant information in an agenda sent with the meeting invite. [This article](https://www.linkedin.com/pulse/what-science-says-meeting-agendas-may-surprise-you-plus-rogelberg/) has some pretty good tips on crafting a good meeting agenda. I particularly like the part where he suggests that agenda items be written in the form of a question.
 * If a meeting is purely a status update, consider providing that via email instead of scheduling a meeting. There's nothing intrinsically wrong with status update meetings; sometimes, they can be helpful, but be mindful of what needs a meeting and what doesn't.
+* Async is a default, not a rule. Sensitive topics, conflict, and anything where tone matters are usually better live.
 * If there is supporting documentation or pre-read information that's useful, include it in the meeting invite.
 * Don't schedule a 30-minute meeting unless you are absolutely sure your agenda allows for it. For something like getting some key people together and making a quick decision, 30 minutes might be acceptable. But these are likely very rare. Any sort of discussion around any topic will likely take longer than 30 minutes. And don't even have 30-minute meetings; make them 25 minutes instead -- that extra 5 minutes means everyone gets a quick break before the next meeting.
 * Schedule other meetings for 50 minutes (if you've seen an invite from me, you've likely noticed that I mostly do this already). If the meeting runs a few minutes over, there is still time to get to the next one. Or time to quickly check your email. 
-* End your meetings on time. Schedule a follow-up meeting if you didn't finish the topics you wanted to cover. If you are using MS teams, it now has a handy feature that notifies you when you have 5 minutes left. Pay attention to this and use it as a prompt to wrap up.
-* Take notes and recap *decisions* and *action items* to everyone that attended.
+* To pick the length, estimate what the agenda needs and trim 5 to 10 minutes. A meeting fills the time it's given.
+* End your meetings on time. If you are using MS Teams, it has a handy feature that notifies you when you have 5 minutes left. Pay attention to this and use it as a prompt to wrap up. (Zoom has a meeting timer instead of an alert; turn on "Show meeting timer" in the display settings and switch it to time remaining.)
+  * If you won't finish, say so at the five-minute mark, agree on the next step, and decide who owns it. Schedule a follow-up meeting or take it to a thread.
+  * If you're done early, end early and give the time back.
+* Take notes and recap *decisions* and *action items* to everyone that attended, and to anyone affected who wasn't there. Keep it short and easy to read, not a transcript. A smaller invite list only works if the people left off still hear what affects them, so don't assume someone else will do it.
 
 _For meetings that you are invited to_:
 * Reply to the meeting invite to indicate your status: Accept, Decline, or Tentative. For Declines and Tentatives, include some reason.
@@ -42,6 +47,7 @@ _For meetings that you are invited to_:
 _For meetings that you are attending_:
 * Don't pull out your phone unless you have to.
 * Don't have your laptop open unless you are presenting or taking notes (and actually, you know, take notes).
+  * _Hybrid exception_: if some attendees are remote, join from your own laptop with the camera on, even from the conference room. A room of 15 people on one camera is hard to watch, and it puts a face in front of the remote folks. Mute your mic and speakers (or use headphones) to avoid echo, repeat questions asked in the room, and don't make remote attendees guess what's on the whiteboard.
 * Don't go to the meeting if you are so busy that you need to work on something during the meeting. Working on something else on your laptop during a meeting effectively steals everyone's time and sends a message that what you're working on is more important than the meeting, which might be true! In which case, skip the meeting, or ask to have it rescheduled. I'll admit that I struggle with this on the days I'm working from home, and I have even taken to pushing my chair back a bit and making sure my hands aren't near the keyboard.
   * _Special Exception_: For some virtual meetings, when your attendance isn't necessarily mandatory, but you have an interest in the discussion (or otherwise might have chosen on-call, as defined above), we have been experimenting with "soft listening" in meetings, with some guidelines around it:
     1) Let the attendees/meeting organizer know that you're going to do it (I have done this with a chat message to all attendees, something like "I'll be soft listening and off camera for most of the meeting, but I'm here if anyone needs me").
@@ -53,12 +59,13 @@ Please share this with your teams, and let's try to set a positive example for t
 #### Tips and tricks
 * It's usually much easier to find time for recurring meetings by looking 1-2 months in the future, scheduling the recurrence starting then, and backfilling with one-off meetings.
 * If you have recurring meetings, ensure they don't outlive their usefulness. Perform retrospectives with the attendees after a time to ensure they still make sense.
+* Send any important pre-read with the invite, and say what you need from people ("read sections 2 and 3, and come ready to choose between A and B" beats "FYI"). For anything longer than a page or two, send it at least a day ahead.
 * You can set up Outlook to [automatically shorten meetings](https://support.microsoft.com/en-us/office/make-all-your-events-shorter-automatically-8fa0fdcb-5eee-4e12-9452-8d59ee33f70a#ID0EABAAA=Windows_Desktop).
 * A bit tongue-in-cheek, but you can use [Should it be a meeting?](https://shoulditbeameeting.com/#/) to help answer the question.
 
 ## Bonus Points
 
-I used to have a section here on “Meeting Free” days. I've updated my opinion on this topic over time and now approach it differently. I block my calendar on Fridays for “Focus Time” rather than “Meeting Free” time. I have given permission to my team to do the same (and gotten buy-in from the larger technology organization, so they understand the purpose). 
+I used to have a section here on “Meeting Free” days. I've updated my opinion on this topic over time and now approach it differently. I block my calendar on Fridays for “Focus Time” rather than “Meeting Free” time, and I encourage my team to do the same. The point is protected time for deep, uninterrupted work, not a ban on getting together. 
 
 Part of the reason for this switch was thinking about what a meeting is. On Fridays, many folks on the team use that opportunity to pair or group up and work on particular problems that might need some focused time. Are these meetings? I started jokingly referring to these as “working sessions” instead of meetings to get around my self-imposed “Meeting Free Friday”.
 
